@@ -7,11 +7,16 @@ RU
 Проект с улучшенным миром. Динамическое освещение? Да. Метеориты? Да. Расы игроков? Да. Мистика? Да.
 У нас есть то что не стали добавлять mojang, переработанные деревни и др.
 
+Модпак(Требуется разрешение для скачивания): https://drive.google.com/file/d/1O0h2hwYjh5yd9Yt5vbEEM54YzXwRizFD/view?usp=drive_link
+
+
 Попасть на проект: https://t.me/McOWP
 
 EN
 Project with enhanced world. Dynamic light? Yes. Meteors? Yes. Players races? Yes.
 We have things that Mojang chose not to add—revamped villages, and more.
+
+Modpack (Permission required for download): https://drive.google.com/file/d/1O0h2hwYjh5yd9Yt5vbEEM54YzXwRizFD/view?usp=drive_link
 
 Create a ticket so that we can add you to the project*.
 Create ticket: https://t.me/McOWP
